@@ -6,6 +6,6 @@
 
 ### This is header 3
 
-###$ This is header 4
+### This is header 4
 
 [This is google link](http://www.google.com)
